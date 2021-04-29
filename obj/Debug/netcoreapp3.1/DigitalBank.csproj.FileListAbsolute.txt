@@ -1,0 +1,11 @@
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\bin\Debug\netcoreapp3.1\DigitalBank.exe
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\bin\Debug\netcoreapp3.1\DigitalBank.deps.json
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\bin\Debug\netcoreapp3.1\DigitalBank.runtimeconfig.json
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\bin\Debug\netcoreapp3.1\DigitalBank.runtimeconfig.dev.json
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\bin\Debug\netcoreapp3.1\DigitalBank.dll
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\bin\Debug\netcoreapp3.1\DigitalBank.pdb
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\obj\Debug\netcoreapp3.1\DigitalBank.csprojAssemblyReference.cache
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\obj\Debug\netcoreapp3.1\DigitalBank.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\obj\Debug\netcoreapp3.1\DigitalBank.AssemblyInfo.cs
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\obj\Debug\netcoreapp3.1\DigitalBank.dll
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\DigitalBank\obj\Debug\netcoreapp3.1\DigitalBank.pdb
